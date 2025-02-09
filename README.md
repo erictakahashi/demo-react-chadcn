@@ -1,13 +1,13 @@
-# React ChadCN
+# React shadcn/ui
 
-A simple React app using ChadCN as the styling tool.
+A simple React app using shadcn/ui as the styling tool.
 
 Build with:
 
 - React
 - Typescript
 - Vite
-- ChadCN
+- shadcn/ui
 
 ## Getting started
 
